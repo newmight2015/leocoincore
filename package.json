@@ -20,7 +20,7 @@
   "main": "bitcore.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Leocoin-project/leocoincore.git"
+    "url": "git+https://github.com/newmight2015/leocoincore.git"
   },
   "scripts": {
     "install": "node-gyp rebuild",
@@ -80,9 +80,9 @@
   "readmeFilename": "README.md",
   "gypfile": true,
   "bugs": {
-    "url": "https://github.com/Leocoin-project/leocoincore/issues"
+    "url": "https://github.com/newmight2015/leocoincore/issues"
   },
-  "homepage": "https://github.com/Leocoin-project/leocoincore",
+  "homepage": "https://github.com/newmight2015/leocoincore",
   "_id": "LEOcoincore@0.1.40",
   "devDependencies": {
     "browserify": "=3.40.0",
